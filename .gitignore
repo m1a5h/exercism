@@ -7,3 +7,11 @@
 # Emacs
 *~
 .\#*
+
+# Python
+__pycache__/
+*.pyc
+
+# JS
+node_modules/
+package-lock.json
